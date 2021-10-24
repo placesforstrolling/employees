@@ -124,5 +124,5 @@ class App extends Component {
         );
     }
 }
-//with main
+//main
 export default App;
